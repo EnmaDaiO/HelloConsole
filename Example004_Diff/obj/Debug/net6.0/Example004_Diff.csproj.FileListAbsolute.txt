@@ -1,0 +1,15 @@
+C:\Users\darkn\Desktop\Учеба\С#Lesson1\Example004_Diff\bin\Debug\net6.0\Example004_Diff.exe
+C:\Users\darkn\Desktop\Учеба\С#Lesson1\Example004_Diff\bin\Debug\net6.0\Example004_Diff.deps.json
+C:\Users\darkn\Desktop\Учеба\С#Lesson1\Example004_Diff\bin\Debug\net6.0\Example004_Diff.runtimeconfig.json
+C:\Users\darkn\Desktop\Учеба\С#Lesson1\Example004_Diff\bin\Debug\net6.0\Example004_Diff.dll
+C:\Users\darkn\Desktop\Учеба\С#Lesson1\Example004_Diff\bin\Debug\net6.0\Example004_Diff.pdb
+C:\Users\darkn\Desktop\Учеба\С#Lesson1\Example004_Diff\obj\Debug\net6.0\Example004_Diff.csproj.AssemblyReference.cache
+C:\Users\darkn\Desktop\Учеба\С#Lesson1\Example004_Diff\obj\Debug\net6.0\Example004_Diff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darkn\Desktop\Учеба\С#Lesson1\Example004_Diff\obj\Debug\net6.0\Example004_Diff.AssemblyInfoInputs.cache
+C:\Users\darkn\Desktop\Учеба\С#Lesson1\Example004_Diff\obj\Debug\net6.0\Example004_Diff.AssemblyInfo.cs
+C:\Users\darkn\Desktop\Учеба\С#Lesson1\Example004_Diff\obj\Debug\net6.0\Example004_Diff.csproj.CoreCompileInputs.cache
+C:\Users\darkn\Desktop\Учеба\С#Lesson1\Example004_Diff\obj\Debug\net6.0\Example004_Diff.dll
+C:\Users\darkn\Desktop\Учеба\С#Lesson1\Example004_Diff\obj\Debug\net6.0\refint\Example004_Diff.dll
+C:\Users\darkn\Desktop\Учеба\С#Lesson1\Example004_Diff\obj\Debug\net6.0\Example004_Diff.pdb
+C:\Users\darkn\Desktop\Учеба\С#Lesson1\Example004_Diff\obj\Debug\net6.0\Example004_Diff.genruntimeconfig.cache
+C:\Users\darkn\Desktop\Учеба\С#Lesson1\Example004_Diff\obj\Debug\net6.0\ref\Example004_Diff.dll
